@@ -1,9 +1,13 @@
 # Congressional Apportionment 1910-2010
 
-![Congressional Apportionment](http://github.com/kerr14333/congressional-apportionment/img/apportionment.png)
+![Congressional Apportionment](https://github.com/kerr14333/congressional-apportionment/blob/master/img/apportionment.png?raw=true)
 
 ## Data Sources
+
+All sources were pulled from the U.S. Census Bureau website:
+
 [Apportionment of Membership of the House of Representatives: 1789-2000 ](https://www.census.gov/population/apportionment/data/2000_apportionment_results.html)
+
 [Apportionment Population and Number of Representatives, by State: 2010 Census](https://www.census.gov/population/apportionment/data/2010_apportionment_results.html)
 
 ## Tools
