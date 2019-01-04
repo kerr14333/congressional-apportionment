@@ -1,6 +1,10 @@
 # Congressional Apportionment 1910-2010
 
+<div style="text-align:center">
+
 ![Congressional Apportionment](https://github.com/kerr14333/congressional-apportionment/blob/master/img/apportionment.png?raw=true)
+
+</div>
 
 ## Data Sources
 
@@ -16,8 +20,8 @@ I used ggplot in R to create the graph.
 
 ## Graph Info
 
-1910 to 2010 was chosen due to there being a constant 435 representatives with the exception of the 1950 census when there were briefly 437. This was due to the introduction of Hawaii and Alaska as states.
+1910 to 2010 was chosen due to there being a constant 435 representatives. An exception was during the 1950 census when there were briefly 437. This was due to the introduction of Hawaii and Alaska as states. It then returned to 435.
 
-The subset of states was chosen to be states where the range of seats over the time period was greater or equal to 8. This was chosen for two reasons. One, it did not clutter up the graph and two, it showed states where there has been a large change in its representation.
+The subset of states was chosen where the range of seats over the time period was greater or equal to 8. I chose this for two reasons. It did not clutter up the graph and it showed states with large variation in representation..
 
 Feel free to play around with the code and see what you can do with it yourself.
