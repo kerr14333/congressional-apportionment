@@ -1,10 +1,9 @@
 # Congressional Apportionment 1910-2010
 
-<div style="text-align:center">
+![Congressional Apportionment Line Plot](https://github.com/kerr14333/congressional-apportionment/blob/master/img/apportionment.png?raw=true)
 
-![Congressional Apportionment](https://github.com/kerr14333/congressional-apportionment/blob/master/img/apportionment.png?raw=true)
+![Congressional Apportionment Step Function](https://github.com/kerr14333/congressional-apportionment/blob/master/img/apportionment_step.png?raw=true)
 
-</div>
 
 ## Data Sources
 

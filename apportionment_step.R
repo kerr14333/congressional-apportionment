@@ -24,7 +24,7 @@ my.breaks <- sub %>% pull(year) %>% unique() %>% sort()
   #Plot the data
   sub %>%
   ggplot(aes(x=year,y=seats,col=as.factor(State),group=State)) + 
-  geom_line() + 
+  geom_step() + 
   guides(col=F) + #Remove guide because it will clutter
   ggtitle("Apportionment of Congressional Seats\n1910-2010")+
   labs(subtitle="States with a range of 8 or greater \nseats over the time period.",
